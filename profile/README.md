@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/cipherTLS-io/.github/main/brand/icon-192.png" alt="CipherTLS Nautilus" width="76" />
+  <img src="https://raw.githubusercontent.com/cipherTLS-io/.github/main/brand/nautilus.svg" alt="CipherTLS Nautilus" width="84" />
 </p>
 
 # CipherTLS
