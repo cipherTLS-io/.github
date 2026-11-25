@@ -15,7 +15,7 @@ natural-language routing** (`aitls`) and **graded human labs** (`openssl-worksho
 | Repo | What it does | Status |
 |---|---|---|
 | [core](https://github.com/cipherTLS-io/core) | Ground-truth Go engine — version-pinned OpenSSL docs, host stack probe, typed command bridge (`companion-result/v1`), drift detection, and program PRD | Public · scaffold + `M6.0` spike validated |
-| [aitls](https://github.com/cipherTLS-io/aitls) | AI-grounded companion CLI (`v0.1` `M6`/`M7`) and later operator inspection workbench (`M0`–`M3`) over unmodified OpenSSL | Private until `M6` preview |
+| `aitls` | AI-grounded companion CLI (`v0.1` `M6`/`M7`) and later operator inspection workbench (`M0`–`M3`) over unmodified OpenSSL | Private until `M6` preview |
 | [openssl-workshop](https://github.com/cipherTLS-io/openssl-workshop) | Hands-on OpenSSL lessons graded on real artifacts against pinned releases, with drift revalidation | Public · scaffold (later scope after `M6`) |
 
 ## Status
@@ -40,4 +40,4 @@ OpenSSL Foundation is claimed. One maintainer (`veronaimars`).
 
 ## License
 
-Apache-2.0. Copyright The CipherTLS Authors. See [LICENSE](LICENSE).
+Apache-2.0. Copyright The CipherTLS Authors. See [LICENSE](../LICENSE).
