@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/cipherTLS-io/.github/main/brand/icon-192.png" alt="CipherTLS Nautilus" width="76" />
+</p>
+
 # CipherTLS
 
 **CipherTLS** makes real OpenSSL verifiable, version-accurate, and safe for both humans and AI
